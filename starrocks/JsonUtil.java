@@ -1,4 +1,4 @@
-package com.socialtouch.martech.mbasedataprocess.util;
+
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.DeserializationFeature;
